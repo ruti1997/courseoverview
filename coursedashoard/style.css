@@ -1,0 +1,22 @@
+.course {
+    margin: 27px;
+    text-align: center;
+    font-size: 29px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 31px;
+    background: #f4f0ed;
+}
+
+.courselist {
+    display: inline-flex;
+    width: 100%;
+    flex-flow: wrap-reverse;
+}
+
+.courselist img {
+    padding: 10px;
+    width: 177px;
+    height: 102px;
+    border-radius: 17px;
+}
